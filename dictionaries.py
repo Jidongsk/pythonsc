@@ -1,4 +1,3 @@
-# CREATE A PROGRAM IN A DICTIONARY FORMAT
 
 import os
 import pprint
